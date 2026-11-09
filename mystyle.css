@@ -11,14 +11,10 @@
   width: 844px; 
   height: 433px; 
   position:relative; 
-  bottom: 100px; 
+  bottom: 287px; 
 }
 #box3{
-  background-color: rgb(252, 223, 106); 
-  width: 467px; 
-  height: 187px; 
-  position:relative; 
-  bottom: 1200px; 
+  background-color:rgb(235, 245, 102); 
 }
 body{
   position:relative;
