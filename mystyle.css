@@ -1,4 +1,26 @@
-h1{
-  font-family: "Bungee"; 
-  color: red;
+
+.box{
+  background-color: rgb(19, 169, 255); 
+  width: cover; 
+  height: 147px; 
+   position:relative; 
+   bottom:100px; 
+}
+#box2{
+  background-color: rgb(193, 255, 114); 
+  width: 844px; 
+  height: 433px; 
+  position:relative; 
+  bottom: 100px; 
+}
+#box3{
+  background-color: rgb(252, 223, 106); 
+  width: 467px; 
+  height: 187px; 
+  position:relative; 
+  bottom: 1200px; 
+}
+body{
+  position:relative;
+  top: 80px; 
 }
